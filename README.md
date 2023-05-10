@@ -1,4 +1,3 @@
-Harika! İşte bir örnek README dosyası oluşturabilirsiniz:
 
 # Rastgele Dövüş Oyunu
 
